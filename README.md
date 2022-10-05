@@ -4,7 +4,8 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevLucasDias&theme=default)
 <div align="center">
-
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevLucasDias&theme=default)
 
 
 </div>  
