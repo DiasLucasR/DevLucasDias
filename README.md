@@ -4,8 +4,11 @@
 
 <div align="center">
   
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevLucasDias&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevLucasDias&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevLucasDias&theme=nord_dark)
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevLucasDias&theme=nord_dark)
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevLucasDias&theme=nord_dark)
 
 
 </div>  
