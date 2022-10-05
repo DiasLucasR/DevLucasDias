@@ -2,9 +2,9 @@
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevLucasDias&theme=default)
 <div align="center">
-![Status do GitHub de Lucas Dias](https://github-readme-stats.vercel.app/api?username=DevLucasDias&hide=prs,issues,contribs)]
+
 
 
 </div>  
