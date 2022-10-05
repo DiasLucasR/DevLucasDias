@@ -4,9 +4,9 @@
 
 
 <div align="center">
-  <a href="https://github.com/DevLucasDias">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevLucasDias&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLucasDias&layout=compact&langs_count=7&theme=dark"/>
+![Status do GitHub de Lucas Dias](https://github-readme-stats.vercel.app/api?username=DevLucasDias&hide=prs,issues,contribs)]
+
+
 </div>  
   
 ##
