@@ -34,7 +34,7 @@
 - 🌱 Além da faculdade agora estou focado em desenvolver sistemas web com os frameworks [Laravel](https://laravel.com/).
 - 💼 Acesse o meu [Portifólio clicando aqui](https://devlucasdias.github.io/DevLucasDiasPortifolio/)
 - 📫 Entre em contato comigo:
-  ##
+
   <div align="center"> 
   <a href = "mailto:lucasrafa2008@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucasrdias" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
