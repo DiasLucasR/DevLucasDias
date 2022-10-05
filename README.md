@@ -30,7 +30,7 @@
 
 - 👨‍💻 Desenvolvedor Fullstack.
 - 👨‍🎓 Estudante de Engenharia de Sistemas.
-- 💻 Conhecimento e experência com as tecnologias: PHP, Laravel, Bootstrap, Javascript, Typescript, Git, SQL, Apache e Linux.
+- 💻 Conhecimento nas tecnologias: PHP, Laravel, Bootstrap, Javascript, Git, SQL, Apache e Linux.
 - 🌱 Além da faculdade agora estou focado em desenvolver sistemas web com os frameworks [Laravel](https://laravel.com/).
 - 💼 Acesse o meu [Portifólio clicando aqui](https://devlucasdias.github.io/DevLucasDiasPortifolio/)
 - 📫 Entre em contato comigo:
